@@ -38,3 +38,32 @@
 ```
 gradle clean test
 ```
+
+## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Для запусков автотестов используется [Jenkins](https://jenkins.autotests.cloud/job/09-Ambidre-lesson19/)
+
+![Jenkins](images/screens/jenkins.png)
+
+
+## <img width="4%" title="Allure Report" src="images/logo/Allure_Report.svg"> Анализ результатов запусков в Jenkins через Allure Reports
+
+### Главная страница Allure-отчета
+
+![Jenkins_Allure_Reports](images/screens/allure_dashbord.png)
+
+### Группировка тестов по проверяемому функционалу
+
+![Jenkins_Allure_Reports1](images/screens/allure_detailes.png)
+
+## <img width="4%" title="Allure TestOps" src="images/logo/Allure_TestOps.svg"> Интеграция тестов c тест-менеджмент системой [Allure TestOps](https://allure.autotests.cloud/project/918/)
+
+### Основной дашборд
+
+![Allure Dashboards](images/screens/testops_dashbord.png)
+
+### Результаты запуска тестов
+
+![Allure_Launches](images/screens/testops_detailes.png)
+
+### Перечень тест-кейсов
+
+![Allure TestOps](images/screens/testops_detailes1.png)
